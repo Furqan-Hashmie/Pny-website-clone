@@ -1,0 +1,18 @@
+.nav-item{
+    font-weight: bolder;
+    font-size:medium;
+    margin-right: 10px;
+    display: flex;
+}
+.bold{
+ font-size: large;
+ font-weight: bolder;
+}
+.color{
+    color: white;
+}
+.login-btn{
+    height: 20px
+}
+
+

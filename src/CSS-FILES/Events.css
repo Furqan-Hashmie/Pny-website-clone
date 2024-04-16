@@ -1,0 +1,63 @@
+.bg-event{
+  margin-top: 20px;
+  background-color:ivory;
+  height: 800px;
+}
+.event-card{
+    width: 600px;
+    margin: 20px;
+
+    transition: .5s ease-in-out;
+}
+
+.cardportion{
+  margin-top: 50px;
+  display: flex;
+
+}
+.eventimg{
+  height: 200px;
+  width: 200px;
+}
+.eventtext{
+  margin-left: 20px;
+}
+.eventdate{
+  margin-top: 30px;
+}
+.topcard{
+  margin-top: 50px;
+  
+}
+/* ..........Photographeventcss */
+.photo{
+  font-weight: bold;
+  font-size: xx-large;
+  margin-top: 10px;
+}
+.word-img{
+  width: 1300px;
+  height: 350px;
+  margin-left: 20px;
+}
+.word-text{
+  margin-left: 45px;
+}
+.all{
+  margin-top: 10px;
+  margin-left: 40px;
+}
+.word-btn{
+  width: 300px;
+  font-size: x-large;
+}
+.two-btn{
+  margin-left: 370px;
+}
+.all-event{
+  margin-left: 380px;
+}
+.word-btn3{
+  width: 600px;
+  font-size: x-large;
+}

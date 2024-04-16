@@ -1,0 +1,72 @@
+.card{
+    margin: 20px;
+    width: 400px;
+    transition: transform .2s ease-in-out;
+  
+}
+.card:hover{
+     transform: scale(1.1);
+
+}
+.container{
+    height: 600px;
+    width: 900px;
+    cursor: pointer;
+}
+.feild-bg{
+    background-color:aliceblue;
+}
+.card-text{
+    font-weight: bold;
+}
+.start{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* ............developmentcss */
+.develop-img{
+    height: 260px;
+    width: 327px;
+    border: 1px solid black;
+}
+
+.develop-card{
+   width: 330px;
+   transition: 0.5s ease-in-out;
+   border: 1px solid black;
+   margin-right: -6px;
+}
+.develop-card:hover{
+    border: 2px solid black;
+ 
+}
+.develop-title{
+    text-transform: capitalize;
+ }
+ .develop-des{
+    text-transform: capitalize;
+ }
+ .page-des{
+    text-transform: capitalize;
+    margin-left: 120px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+ }
+.page-back{
+    background-color:cornsilk;
+}
+.page{
+    text-transform: capitalize;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.download{
+    width: 300px !important;
+}
+.book{
+    width: 140px !important;
+}
+.pay{
+    margin-left: 20px !important;
+    width: 400px !important;
+}

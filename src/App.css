@@ -1,0 +1,288 @@
+.container{
+  cursor:pointer;
+}
+.inputsize{
+  width: 400px;
+  margin-left: 40px;
+  border: 2.5px solid black;
+}
+.inputaddress{
+  margin-left: 40px;
+  border: 2.5px solid black;
+  width: 840px;
+}
+.forgot{
+  cursor: pointer;
+  font-weight: bold;  
+  margin-left: 40px;
+  text-transform: uppercase;
+  text-decoration: solid underline;
+ 
+}
+.forgot:hover{
+  color: red;
+  width: 160px;
+}
+.formborder{
+  width: 920px;
+  height: 610px;
+  transition: 1s ease-in-out;
+  border-radius: 50px;
+}
+.form-label{
+  margin-left: 30px;
+  text-transform: uppercase;
+}
+.radio{
+  margin-left: 40px;
+  text-transform: uppercase;
+}
+.radio1{
+  border: 3px solid black;
+}
+.back-color{
+  background-color:#dde1e7;
+}
+.center{
+  margin-left: 220px;
+  margin-top: 20px !important;
+  margin-bottom: 100px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.main{
+
+  margin-top: 100px;
+}
+.last{
+  margin-bottom: 15px;
+}
+.now{
+  margin-left: 5px;
+}
+.decoration{
+  text-decoration: none;
+}
+.signnow{
+  width: 600px;
+}
+.form-error{
+  color: red;
+  font-weight: bold;
+  margin-left: 40px;
+  text-transform: uppercase;
+  text-decoration: solid underline;
+  
+}
+h3{
+  text-align: center;
+  font-weight: bolder;
+ 
+}
+.submitbtn{
+  
+    margin-left: 40px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    height: 40px;
+  }
+.submitbtn:hover{
+   font-size: larger;
+   color: red !important;
+  }
+  .shirtimg{
+    height: 250px;
+    margin-left: 120px;
+  }
+  .btn1{
+    margin: 7px;
+    border: 2px solid black;
+    border-radius: 40%;
+  
+  }
+  .decoration{
+    text-decoration: none;
+  }
+  .signnow{
+    width: 600px;
+  }
+  
+.button {
+  margin: 15px 0;
+  width: 100%;
+  height: 50px;
+  font-size: 18px;
+  line-height: 50px;
+  font-weight: 600;
+  background: #dde1e7;
+  border-radius: 25px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #595959;
+  box-shadow: 2px 2px 5px #BABECC,
+             -5px -5px 10px #ffffff73;
+             
+}
+
+
+.sign-up {
+  margin: 10px 0;
+  color: #595959;
+  font-size: 16px;
+}
+
+.sign-up a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.sign-up a:hover {
+  text-decoration: underline;
+}
+.main{
+
+  margin-top: 100px;
+}
+.last{
+  margin-bottom: 15px;
+}
+.now{
+  margin-left: 5px;
+}
+.decoration{
+  text-decoration: none;
+}
+.signnow{
+  width: 600px;
+}
+/* ............. */
+/* footercss */
+.second{
+  margin-left: 0px;
+}
+.offered{
+  margin-right: 930px;
+}
+.footer-li{
+  text-decoration: none;
+  list-style-type: none;
+  margin-top: 40px;
+  display: flex;
+  font-weight: bold;
+}
+.back{
+  margin-top: 20px;
+  background-color:#dde1e7;
+}
+/* .....slidercss. */
+.slider{
+  width: 1345px;
+  margin-top: 20px;
+}
+.elements{
+  margin-top: 4%;
+margin-left: 10px;
+}
+.unlimited{
+  font-size: 15px;
+  margin-top: 120px;
+  margin-left: 10px;
+}
+.learn{
+  font-size: 15px;
+  margin-top: 120px;
+  margin-left: 10px;
+}
+.customize{
+  font-size: 15px;
+  margin-top: 120px;
+  margin-left: 10px;
+}
+.slider-after{
+  margin-left: 45%;
+  margin-bottom: 10px;
+}
+.sk{
+  cursor: pointer;
+}
+/* ............navcomponentsnamecss */
+.amazon{
+  margin-top: 3%;
+  width: 600px;
+  font-size: xx-large;
+  border: 2px solid;
+ 
+}
+.lik{
+  text-decoration: none;
+  color: mediumseagreen;
+}
+.lik:hover{
+  color: white;
+}
+.slidera{
+  height: 300px;
+  width: 1340px;
+  margin-top: 10px;
+}
+/* ...........admission table css */
+.bu{
+  margin-left: 70px;
+}
+.n{
+  width: 200px;
+  margin-left: 10px;
+}
+.n:hover{
+  background-color:orange;
+}
+.admission-h{
+  width: 400px;
+}
+.admission-btn{
+ display: flex;
+ margin-left: 50px;
+ width: 600px;
+
+}
+.vedio{
+  margin-left: 70px;
+}
+.steps{
+  margin-left: 50px;
+  font-size: xx-small !important;
+}
+.num{
+  font-weight: bolder;
+}
+/* ...about us css  */
+.about-img{
+  width: 550px;
+  height: 500px;
+  border: 2px solid black;
+}
+.about-text{
+  margin-left: 90px;
+}
+.about-head{
+  margin-left: 90px;
+  border-bottom: 1px solid darkkhaki;
+  width: 1100px;
+}
+/* career css */
+.care-img{
+  width: 1340px;
+}
+.care-bg{
+  background-color:khaki;
+  width: 1200px !important;
+
+}
+.width{
+  width: 1200px !important;
+}
+.hiring{
+  height: 300px !important;
+  width:  400px !important;
+}
