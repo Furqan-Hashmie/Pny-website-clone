@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import '../CSS-FILES/Navbar.css';
-import { Badge } from '@mui/material';
+
 
 const Navbar1 = () => {
   return (
@@ -37,19 +37,12 @@ const Navbar1 = () => {
           <Link className="nav-link color" to="/admission">Admission Info</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link color" to="/products">Products</Link>
-        </li>
-        <li className="nav-item">
           <Link className="nav-link " to="/login"><button type="button" className="btn btn-outline-info " >Signup</button></Link>
         </li>
         <li className="nav-item">
           <Link className="nav-link" to="/enroll"><button type="button" className="btn btn-outline-warning"> Enroll</button></Link>
         </li>
-        <li className="nav-item">
-              <Link to='/cart' className="nav-link text-white">  <Badge badgeContent={1} color="primary">
-      <i class="fa-solid fa-cart-shopping"></i>
-    </Badge></Link>
-              </li>
+        
       </ul>
     </div>
   </div>

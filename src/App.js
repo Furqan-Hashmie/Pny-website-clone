@@ -14,7 +14,6 @@ import Home from './Components/Home';
 import Navbar2 from './Components/Navbar2';
 import Development from './Components/Development';
 import Wordpress from './Components/Wordpress';
-import Products from './Components/Products';
 import Detailpage from './Components/Detailpage';
 import Marketing from './Components/Marketing';
 import Marketingdetail from './Components/Marketingdetail';
@@ -46,7 +45,6 @@ function App() {
   <Route path="/development" element={<Development/>}></Route>
   <Route path="/development/:id" element={<Detailpage/>}></Route>
   <Route path='/wordpress' element={<Wordpress/>}></Route>
-  <Route path='/products' element={<Products/>}/>
 </Routes>
 
   
